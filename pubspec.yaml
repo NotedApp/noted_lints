@@ -1,0 +1,7 @@
+name: noted_lints
+description: Lints for use throughout noted packages.
+version: 1.0.0
+
+environment:
+  sdk: '>=2.18.0 <4.0.0'
+
