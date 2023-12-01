@@ -1,8 +1,9 @@
 name: noted_lints
 description: Lints for use throughout noted packages.
-version: 1.0.0
+version: 1.0.1
 
 environment:
   sdk: '>=2.18.0 <4.0.0'
 dependencies:
-  flutter_lints: ^2.0.1
+  flutter_lints: ^3.0.1
+

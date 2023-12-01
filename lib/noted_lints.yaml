@@ -15,6 +15,7 @@ linter:
 
     - always_declare_return_types
     - always_put_control_body_on_new_line
+    - always_specify_types
     - avoid_annotating_with_dynamic
     - avoid_double_and_int_checks
     - avoid_equals_and_hash_code_on_mutable_classes
@@ -22,6 +23,8 @@ linter:
     - avoid_final_parameters
     - avoid_multiple_declarations_per_line
     - avoid_redundant_argument_values
+    - avoid_unused_constructor_parameters
+    - avoid_void_async
     - cast_nullable_to_non_nullable
     - conditional_uri_does_not_exist
     - deprecated_consistency
