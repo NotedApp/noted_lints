@@ -15,7 +15,6 @@ linter:
 
     - always_declare_return_types
     - always_put_control_body_on_new_line
-    - always_specify_types
     - avoid_annotating_with_dynamic
     - avoid_double_and_int_checks
     - avoid_equals_and_hash_code_on_mutable_classes
@@ -38,6 +37,7 @@ linter:
     - parameter_assignments
     - prefer_foreach
     - prefer_null_aware_method_calls
+    - sized_box_for_whitespace
     - sized_box_shrink_expand
     - sort_unnamed_constructors_first
     - unnecessary_await_in_return
